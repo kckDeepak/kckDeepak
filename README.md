@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **I love reading fantasy novels**
 
+![tyrion-lannister-i-dont-drink](https://github.com/user-attachments/assets/b3f8dfcd-823b-4757-97da-832d8f41df3b)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chaitanya krishna deepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya krishna deepak" height="30" width="40" /></a>
