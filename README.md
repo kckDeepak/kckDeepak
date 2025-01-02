@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/chaitanya-krishna-deepak-62977a265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya krishna deepak" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/chaitanya-krishna-deepak-62977a265" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya krishna deepak" height="30" width="40" /></a>
 <a href="https://instagram.com/chaitanya_290605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaitanya_290605" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/kckdeepak29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaitanya krishna deepak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaitanya_krishna_deepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaitanya_krishna_deepak" height="30" width="40" /></a>
