@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 👋 Hi, I'm Chaitanya
 I'm a Computer Science student (CSE '26) and an enthusiastic developer passionate about building impactful solutions. I love exploring new technologies, solving problems, and diving into fantasy novels in my free time.
 
