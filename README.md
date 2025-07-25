@@ -50,9 +50,10 @@
   </tr>
 </table>
 
+<!--
 ---
 
 ### 🚀 Fun Fact
 
 ✨ *I love reading fiction.*
-
+ -->
