@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://github.com/kckDeepak/kckDeepak/assets/banner.png" alt="Welcome Banner" />
-</p>
-
+![Banner](https://github.com/user-attachments/assets/398cb366-65d5-4997-b13a-0e748b36a644)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=🚀Student+%7C+💻Full+Stack+Developer+%7C+🎓CSE'26;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Student+%7C+Full+Stack+Developer+%7C+CSE'26" alt="Typing SVG" />
 </p>
+
 
 ---
 
