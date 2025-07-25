@@ -7,13 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Student+%7C+Full+Stack+Developer+%7C+CSE'26" alt="Typing SVG" />
 </p>
 
-
+<!--
 ---
 
 ### 📫 Reach Me At
 📧 **kckdeepak29@gmail.com**
 
 ---
+ -->
 
 ### 🌐 Connect With Me
 <p align="left">
