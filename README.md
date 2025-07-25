@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/kckDeepak/kckDeepak/assets/banner.png" alt="Welcome Banner" />
 </p>
-
+ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=🚀Student+%7C+💻Full+Stack+Developer+%7C+🎓CSE'26;" alt="Typing SVG" />
