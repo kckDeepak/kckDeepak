@@ -19,12 +19,13 @@
 <p align="left">
   <a href="https://linkedin.com/in/chaitanya-krishna-deepak" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://instagram.com/chaitanya_290605" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="https://www.hackerrank.com/chaitanya_krishna_deepak" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/></a>
-  <a href="https://leetcode.com/chaitanya_krishna_deepak" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/leetcode.svg" width="40"/></a>
+<a href="https://leetcode.com/chaitanya_krishna_deepak" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
+</a>
 </p>
 
 ---
-
+<!--
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -35,7 +36,7 @@
 </p>
 
 ---
-
+ -->
 ### 📊 GitHub Stats
 
 <table align="center">
