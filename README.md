@@ -4,8 +4,11 @@
  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Brdge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Architecting+Brdge" />
 </p>
+
+
+
 
 
 <!--
