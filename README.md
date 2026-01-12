@@ -1,4 +1,4 @@
-# Hi, I'm Chaitanya Krishna Deepak (KCK Deepak) 👋
+# Hi, I'm Deepak Kuchi 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer+@+Brdge;CSE+%E2%80%9926+@+ICFAI;DSA+Enthusiast;RAG%2C+LLMs+%26+AI+Agents;Building+with+React%2C+Spring+Boot%2C+Flutter+%26+Django" />
