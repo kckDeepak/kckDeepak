@@ -4,8 +4,9 @@
  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=AI Engineer+%7C+Full+Stack+Developer+%7C+Brdge❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Brdge" />
 </p>
+
 
 <!--
 ---
