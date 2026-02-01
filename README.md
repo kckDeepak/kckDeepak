@@ -10,6 +10,13 @@ When not coding, I'm devouring books—around 100 a year. Fun fact: I'm a part-t
 
 ---
 
+## 📊 This Week I Spent My Time On
+   
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+
+---
+
 ### 🛠️ Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,dart,react,flutter,django,spring,nextjs,nodejs,express" />
