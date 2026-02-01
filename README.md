@@ -13,7 +13,12 @@ When not coding, I'm devouring books—around 100 a year. Fun fact: I'm a part-t
 ## 📊 This Week I Spent My Time On
    
    <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
