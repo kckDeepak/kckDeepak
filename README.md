@@ -1,3 +1,4 @@
+<!--
 # Hi, I'm Deepak Kuchi 👋
 
 <p align="center">
@@ -9,6 +10,7 @@ I'm a Full-Stack AI Engineer bridging dynamic apps with cutting-edge AI solution
 When not coding, I'm devouring books—around 100 a year. Fun fact: I'm a part-time astrologer/palmist! Let's connect to build something cool or explore tech opportunities.
 
 ---
+-->
 
 ## 📊 This Week I Spent My Time On
    
@@ -24,6 +26,7 @@ Docker     2 mins          ▒░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<!--
 ---
 
 ### 🛠️ Skills
@@ -59,13 +62,14 @@ Top skills include: Audio Signal Processing, Python Backend Development, Mobile 
 (12+ certifications in total, including RAG and Communication.)
 
 ---
+-->
 
 ### 📊 GitHub Stats
 <table align="center">
   <tr>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kckDeepak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&title_color=1E90FF" width="400px" />
-    </td>
+    </td> -->
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=kckDeepak&theme=tokyonight&hide_border=false&title_color=1E90FF" width="400px" />
     </td>
