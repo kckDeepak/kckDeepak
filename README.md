@@ -15,7 +15,11 @@ When not coding, I'm devouring books—around 100 a year. Fun fact: I'm a part-t
    <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     3 hrs 16 mins   ██████████████████████▒░░   88.68 %
+JSON       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Bash       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Docker     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
