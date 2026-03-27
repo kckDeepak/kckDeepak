@@ -17,11 +17,11 @@ When not coding, I'm devouring books—around 100 a year. Fun fact: I'm a part-t
    <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 49 mins         ██████████▒░░░░░░░░░░░░░░   40.76 %
-JSON         2 hrs 12 mins         ████████░░░░░░░░░░░░░░░░░   31.73 %
-TypeScript   41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Bash         29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Markdown     29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Python       2 hrs 1 min           ███████████░░░░░░░░░░░░░░   44.25 %
+TypeScript   41 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+JSON         37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Bash         29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Markdown     29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
 ```
 
 <!--END_SECTION:waka-->
