@@ -63,13 +63,13 @@ Top skills include: Audio Signal Processing, Python Backend Development, Mobile 
 
 ---
 -->
-
+<!--
 ### 📊 GitHub Stats
 <table align="center">
   <tr>
     <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kckDeepak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&title_color=1E90FF" width="400px" />
-    </td> -->
+    </td> 
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=kckDeepak&theme=tokyonight&hide_border=false&title_color=1E90FF" width="400px" />
     </td>
@@ -87,3 +87,5 @@ Top skills include: Audio Signal Processing, Python Backend Development, Mobile 
 </p>
 
 📧 **kckdeepak29@gmail.com**
+
+-->
