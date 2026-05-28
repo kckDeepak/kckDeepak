@@ -95,11 +95,11 @@ But beyond the job title, here's what genuinely excites me right now:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 39 mins         ██████████████░░░░░░░░░░░   56.04 %
-JSON         1 hr 29 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Markdown     1 hr 18 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Bash         57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Text         30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Python       7 hrs 5 mins          █████████████░░░░░░░░░░░░   52.50 %
+Markdown     1 hr 34 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+JSON         1 hr 31 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Bash         1 hr 18 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Text         30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
