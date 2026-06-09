@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepak%20Kuchi&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20CSE%20%2726&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
 </div>
-
 ---
 
 ## 👋 Hi, I'm Deepak
@@ -60,6 +59,7 @@ Most of these projects focus on understanding how AI systems behave in productio
 ---
 -->
 
+<!--
 ## 🧬 Who Am I?
 ```python
 deepak = {
@@ -67,7 +67,7 @@ deepak = {
     "role" : "Full-Stack AI Engineer @ Brdge",
     "education" : "CSE '26 @ ICFAI Tech",
     "location" : "Hyderabad, India 🇮🇳",
-    "languages" : ["Python", "JavaScript", Java", Dart"],
+    "languages" : ["Python", "JavaScript", "Java", Dart"],
     "ai_stack" : ["RAG", "LLMs", "AI Agents", "TensorFlow", "PyTorch"],
     "app_stack" : ["React", "Next.js", "Django", "Flutter", "Fast api"],
     "dsa" : "350+ LeetCode problems and counting 🧠",
@@ -75,7 +75,7 @@ deepak = {
     "currently" : "Getting serious about Open Source 🌍",
 }
 ```
----
+-->
 
 ## 🛠 Tech Stack
 
@@ -105,13 +105,9 @@ deepak = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kckDeepak&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckDeepak&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kckDeepak&show_icons=true&theme=tokyonight"/>
 
 </div>
-
----
 
 <div align="center">
 
@@ -140,6 +136,26 @@ Markdown     33 mins               █▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kckDeepak&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/deepak29062005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:kckdeepak29@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
