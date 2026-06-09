@@ -95,11 +95,11 @@ But beyond the job title, here's what genuinely excites me right now:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 49 mins         █████████████░░░░░░░░░░░░   51.96 %
-TypeScript   1 hr 33 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Markdown     1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-JavaScript   40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-CSS          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Python       4 hrs 11 mins         ███████████░░░░░░░░░░░░░░   43.44 %
+Dart         2 hrs 13 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+JavaScript   40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+YAML         37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Markdown     33 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
