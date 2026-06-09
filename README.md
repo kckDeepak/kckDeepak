@@ -121,6 +121,12 @@ deepak = {
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/kckDeepak/kckDeepak/blob/output/github-snake.svg)
+
+---
+
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
