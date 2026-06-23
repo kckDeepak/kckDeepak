@@ -128,11 +128,11 @@ deepak = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 12 mins         ██████████████████▓░░░░░░   74.23 %
-Markdown     1 hr 50 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-TypeScript   15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JavaScript   13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Dart         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python       6 hrs 37 mins         ███████████████▒░░░░░░░░░   61.40 %
+Markdown     1 hr 48 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+TypeScript   1 hr 12 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Other        21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JavaScript   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
