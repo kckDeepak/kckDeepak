@@ -128,10 +128,7 @@ deepak = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 43 mins          █████████████████░░░░░░░░   68.56 %
-Other        42 mins               ███████░░░░░░░░░░░░░░░░░░   28.04 %
-Markdown     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
