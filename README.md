@@ -128,11 +128,11 @@ deepak = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python        5 hrs 3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-Text          3 hrs 3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-TypeScript    2 hrs 52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-JSON          2 hrs 16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Other         1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Python        5 hrs 3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+Text          3 hrs 53 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Markdown      3 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+TypeScript    2 hrs 52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+JSON          2 hrs 52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
 ```
 
 <!--END_SECTION:waka-->
