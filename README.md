@@ -128,11 +128,7 @@ deepak = {
 <!--START_SECTION:waka-->
 
 ```txt
-Text         1 hr 19 mins          ███████████▒░░░░░░░░░░░░░   44.95 %
-HTML         36 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
-JSON         35 mins               █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-CSS          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-TSConfig     6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
